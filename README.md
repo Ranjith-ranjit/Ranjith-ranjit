@@ -1,6 +1,5 @@
 👋 Hi, I’m Ranjith
 🌟 About Me:
-
 🌱 I’m currently learning python fullstack, focusing on HTML, CSS, JavaScript, Python, Mysql.
 🎯 My goal is to become a skilled web developer and build impactful websites.
 💡 I love exploring new technologies and improving my coding skills.
